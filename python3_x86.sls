@@ -1,6 +1,6 @@
 python3_x86:
   '3.5.2150':
-    full_name: 'Python 3.5.2 (32-bit)'
+    full_name: 'Python 3.5.2 Core Interpreter (32-bit)'
     installer: 'https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe'
     install_flags: '/quiet InstallAllUsers=1'
     uninstaller: 'https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe'
